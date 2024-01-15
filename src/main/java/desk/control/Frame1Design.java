@@ -80,7 +80,7 @@ public class Frame1Design extends FrameDesign {
         labelsSetting("label4", "備考：", 400, 450, 100, 25);
         labelUniqueId.setHorizontalAlignment(JLabel.RIGHT);
         labelUniqueId = (JLabel)componentsSetting(labelUniqueId, "labelUniqueId", 500, 300, 250, 25);
-        labelFoot.setText("Copyright  ©  2021-2023  entrance-to-develop06");
+        labelFoot.setText("Copyright  ©  2021-2024  entrance-to-develop06");
         labelFoot = (JLabel)componentsSetting(labelFoot, "labelFoot", 30, 538, 300, 25);
 
         textShohinCode = (JTextField)componentsSetting(textShohinCode, "textShohinCode", 600, 350, 150, 25);

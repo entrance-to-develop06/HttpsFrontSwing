@@ -3,11 +3,11 @@
 ### 開発環境  
 
 ```
-統合開発環境： JetBrains IntelliJ IDEA Community Edition 2023.1  
-プログラム言語：Java 17  
-開発SDK：Oracle JDK 17.0.7  
+統合開発環境： JetBrains IntelliJ IDEA Community Edition 2023.3.2  
+プログラム言語：Java 21  
+開発SDK：Oracle JDK 21.0.1  
 デスクトップ：Swing
-JSONライブラリー：Jackson 2.15.0  
+JSONライブラリー：Jackson 2.16.1  
 ```
 
 #### 画面イメージ  
